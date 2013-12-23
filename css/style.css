@@ -206,10 +206,13 @@ a:hover {
     -ms-transform:     translateZ(50px);
     -o-transform:      translateZ(50px);
     transform:         translateZ(50px);
+    text-align: center;
 }
 
 #title .footnote {
     font-size: 32px;
+    text-align: right;
+    /*float: right;*/
 }
 
 /* big thoughts */
