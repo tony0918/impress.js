@@ -502,3 +502,12 @@ a:hover {
     float: left;
     margin-left: 15px;
 }
+
+#my5 ol{
+    margin-left: 20px;
+    list-style: decimal;
+}
+
+#my5 ol li{
+    margin-bottom: 10px;
+}
