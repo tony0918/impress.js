@@ -498,3 +498,7 @@ a:hover {
     display: block;
 }
 
+#its ul li{
+    float: left;
+    margin-left: 15px;
+}
