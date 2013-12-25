@@ -511,3 +511,12 @@ a:hover {
 #my5 ol li{
     margin-bottom: 10px;
 }
+
+#big1 .tips{
+    font-size: 35px;
+}
+
+#imagination1 ol {
+    list-style: decimal;
+    font-size: 30px;
+}
